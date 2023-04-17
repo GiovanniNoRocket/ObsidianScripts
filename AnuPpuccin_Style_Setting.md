@@ -1,4 +1,4 @@
-#Setting for anuPpuccn, from reddit [Reddit Publication][https://www.reddit.com/r/ObsidianMD/comments/12kfo7j/my_obsidian_setup_after_a_month_of_learning_and/?utm_source=share&utm_medium=web2x&context=3]
+#Setting for anuPpuccn, from reddit [Reddit Publication](https://www.reddit.com/r/ObsidianMD/comments/12kfo7j/my_obsidian_setup_after_a_month_of_learning_and/?utm_source=share&utm_medium=web2x&context=3)
 
     {
       "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
