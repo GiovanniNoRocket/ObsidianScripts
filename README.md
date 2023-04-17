@@ -1,2 +1,2 @@
 # ObsidianScripts
-Somethinks that i use to personalize my obsidian
+Things I use to personalize my obsidian
